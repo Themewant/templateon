@@ -26,6 +26,8 @@ define( 'TEMPLA_TEMPLATES', TEMPLA_PATH . 'templates/' );
 define( 'TEMPLA_ASSETS', TEMPLA_URL . 'assets/' );
 define( 'TEMPLA_SLUG', 'templa_templates' );
 
+require __DIR__ . '/vendor/autoload.php';
+
 require_once TEMPLA_INCLUDES . 'class-templateon-templa-autoloader.php';
 \TEMPLATEON\StarterLibrary\TEMPLA_Autoloader::register();
 
@@ -515,3 +517,21 @@ function templa_allowed_html() {
 
     return apply_filters( 'templa_allowed_html', $allowed_tags );
 }
+
+
+/**
+ * Initialize the tracker
+ *
+ * @return void
+ */
+function templa_init_appsero_tracker() {
+
+    $client = new TemplateonAppsero\Client( 'eeb9cca8-9112-4bb7-8983-b6e59bfebccc', 'Templateon', __FILE__ );
+
+    // Active insights
+    $client->insights()->init();
+
+
+}
+
+templa_init_appsero_tracker();
