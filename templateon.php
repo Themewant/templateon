@@ -3,7 +3,7 @@
  * Plugin Name: Templateon
  * Plugin URI:  https://themewant.com/
  * Description: A lightweight Elementor template library that lets you import ready-made starter sites and page templates with one click.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Themewant
  * Author URI:  http://themewant.com/
  * Text Domain: templateon
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-define( 'TEMPLA_VERSION', '1.0.1' );
+define( 'TEMPLA_VERSION', '1.0.2' );
 define( 'TEMPLA_FILE', __FILE__ );
 define( 'TEMPLA_BASENAME', plugin_basename( __FILE__ ) );
 define( 'TEMPLA_PATH', plugin_dir_path( __FILE__ ) );

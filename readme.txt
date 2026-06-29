@@ -4,7 +4,7 @@ Tags: starter templates, elementor, landing page, elementor templates, templates
 Requires at least: 5.8
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,9 @@ Whether you're creating a business website, portfolio, blog, agency site, or onl
 
 
 <a href="https://wpeasyelements.com/demotemplate/templateon/" target="_blank">Live Demo </a> | <a href="https://www.facebook.com/groups/themewant" target="_blank">Join Our Facebook Community </a> | <a href="https://themewant.com/support/" target="_blank">Support</a> | <a href="https://documentation.themewant.com/docs/templateon/" target="_blank">Documentation</a>
+
+
+https://www.youtube.com/watch?v=ZdWkcO4WC_E
 
 
 ### Key Features
@@ -142,25 +145,26 @@ Browse a growing collection of templates ideal for creating:
 
 - [Structure Business Construction](https://wpeasyelements.com/demotemplate/structura/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
 
-- [GearX – Car Repair][PRO](https://wpeasyelements.com/demotemplate/gearx/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [Nexvo – Startup Agency][PRO](https://wpeasyelements.com/demotemplate/nexvo/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [Invex – Finance][PRO](https://wpeasyelements.com/demotemplate/invex/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [Novix – Business Consulting][PRO](https://wpeasyelements.com/demotemplate/novix/invex/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [Ledgix – Accountant Website][PRO](https://wpeasyelements.com/demotemplate/ledgix/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [NexDesk – Coworking Space][PRO](https://wpeasyelements.com/demotemplate/nexdesk/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [Locksmith – Smart Lock Services][PRO](https://wpeasyelements.com/demotemplate/locksmith/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
-- [Agrinova agricultural][PRO](https://wpeasyelements.com/demotemplate/agrinova/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
-
 - [Autova Car service](https://wpeasyelements.com/demotemplate/autova/service/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
 
 - [Consulting Business](https://wpeasyelements.com/demotemplate/orbit/service/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon)
+
+- [GearX – Car Repair](https://wpeasyelements.com/demotemplate/gearx/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [Nexvo – Startup Agency](https://wpeasyelements.com/demotemplate/nexvo/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [Invex – Finance](https://wpeasyelements.com/demotemplate/invex/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [Novix – Business Consulting](https://wpeasyelements.com/demotemplate/novix/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [Ledgix – Accountant Website](https://wpeasyelements.com/demotemplate/ledgix/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [NexDesk – Coworking Space](https://wpeasyelements.com/demotemplate/nexdesk/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [Locksmith – Smart Lock Services](https://wpeasyelements.com/demotemplate/locksmith/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
+- [Agrinova – Agricultural](https://wpeasyelements.com/demotemplate/agrinova/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=templateon) (PRO)
+
 
 ### Agency Website Starter Templates**
 
@@ -305,6 +309,12 @@ Yes. The library includes templates for businesses, agencies, portfolios, startu
 
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Fixed: Issue fixes
+* Added: Appsero added
+
 
 = 1.0.0 =
 
